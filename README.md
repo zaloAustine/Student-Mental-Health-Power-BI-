@@ -1,11 +1,11 @@
 # Student-Mental-Health-Power-BI-
-# 📊 Student Mental Health Dashboard
+# Student Mental Health Dashboard
 
 A visual analytics dashboard built to explore and understand student mental health trends using survey data.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project visualizes mental health metrics among students, such as:
 
@@ -19,7 +19,7 @@ The dashboard aims to support data-driven decisions for mental health support in
 
 ---
 
-## 📁 File Structure
+##File Structure
 
 ```bash
 mental-health-dashboard/
