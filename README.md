@@ -23,8 +23,7 @@ The dashboard aims to support data-driven decisions for mental health support in
 
 ```bash
 mental-health-dashboard/
-├── data/
-│   └── mental_health.csv       # Dataset used
+└── mental_health.csv       # Dataset used
 ├── dashboard.pbix              # Power BI project file (or .twbx if Tableau)
 ├── README.md                   # This guide
 ├── LICENSE
